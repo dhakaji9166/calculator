@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin:5px ;
+    color: white;
+}
+.main{
+    width: 310px;
+    /* height: 400px; */
+    margin: auto;
+    background-color: blue;
+    border: none;
+    margin-top: 70px;
+    
+}
+.main:hover{
+    box-shadow: 1px 1px 1px 3px rgb(44, 39, 39);
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+p button{
+    margin: 5px;
+    font-size: 20px;
+    padding: 20px;
+}
